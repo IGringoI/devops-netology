@@ -8,4 +8,4 @@
 
 #Будут проигнорированы перезаписываемые ресурсные файлы, такие как override.tf , override.tf.json , *_override.tf , *_override.tf.json . Эти файлы не проверяются. 
 
-#Будут проигнорированы конфигурационные файлы CLI , такие как .terraformrc , terraform.rc
+#Будут проигнорированы конфигурационные файлы CLI , такие как .terraformrc , terraform.rcnew testing line
